@@ -17,3 +17,5 @@ counter %= 3;
 //exponencial
 counter = counter**3;
 counter **=2;
+
+console.log(counter)
