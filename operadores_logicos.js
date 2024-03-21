@@ -1,0 +1,16 @@
+
+const FullName = "Johstin Osorio Lopez";
+console.log(FullName.length)
+console.log(FullName[1])
+console.log(FullName.includes('Johstin'))
+console.log(FullName.indexOf('Andres'))
+console.log(FullName.startsWith('Osorio'))
+console.log(FullName.endsWith('Lopez'))
+console.log(FullName.slice(0, 4))
+console.log(FullName.slice(4))
+console.log(FullName.toUpperCase())
+console.log(FullName.toLowerCase())
+console.log(FullName.replace('Johstin', 'Ing'))
+console.log(FullName.repeat(3))
+console.log(FullName.trim())
+console.log(FullName.split(''))

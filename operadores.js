@@ -1,3 +1,4 @@
+/*
 console.log("operadores...")
 let counter = 100;
 //suma
@@ -24,3 +25,4 @@ console.log(counter)
 counter = counter**3;
 counter **=2;
 console.log(counter)
+*/
