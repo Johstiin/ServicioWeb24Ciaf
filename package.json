@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "operadores": "node operadores.js",
     "comparadores": "node comparadores.js",
-    "operadores_logicos": "node operadores_logicos.js"
+    "operadores_logicos": "node operadores_logicos.js",
+    "operadores_log": "node operadores_log.js"
   },
   "keywords": [],
   "author": "",
